@@ -28,6 +28,8 @@ html {
 .banner {
   position: relative;
   overflow: hidden;
+  max-height: 24em;
+  overflow: hidden;
 }
 
 .banner-content {
